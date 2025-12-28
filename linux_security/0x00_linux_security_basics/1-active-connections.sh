@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ss (-antp|-a.-n.-t.-p|-tanp)
+sudo ss -tanp
