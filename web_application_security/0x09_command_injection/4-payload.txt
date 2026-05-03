@@ -1,0 +1,1 @@
+nmap -p 8080 127.0.0.1; cat /bin/4-flag.txt
